@@ -25,6 +25,8 @@
 •	Drove engagement and first-time purchases through data-driven influencer content, UGC challenges, and promo-led conversions.
 
 #### Project 4: Python Analysis Project
+
+file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analysis_Individual%20Assignment%20-%20JANE%20KURI%20(MIMA)-3%20(1).html 
   
 •	Perform insightful data analysis of Bay Wheels’ bike rental patterns using Python techniques on Jupyter Notebook 
 
@@ -34,6 +36,7 @@
 https://www.youtube.com/watch?v=JClFcxynlHY 
 
 #### Project 6: Big Data Workflows in AI-Powered Business
+
 •	Participated in an in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
 
 #### Project 7: Utilizing Data Analysis & Visualization Tools on Real World Business Case
