@@ -15,16 +15,19 @@
 #### Project 2: Expedia Group Project   
 
 •	Developed and presented the "Event-cation" strategy to Expedia representatives. Through leveraging data insights to incentivize property listings on Vrbo during peak events, driving international market expansion for Expedia.
+
 •	Identified high-demand locations and showcased revenue potential, enhancing Vrbo’s competitive positioning in global event-driven travel.
 
 #### Project 3: Design Sales Marketing Strategy 
 
 •	Designed and launched a TikTok campaign to introduce BYMAU, a Caribbean plant-based beverage, to U.S. Gen Z consumers.
+
 •	Drove engagement and first-time purchases through data-driven influencer content, UGC challenges, and promo-led conversions.
 
 #### Project 4: Python Analysis Project
   
 •	Perform insightful data analysis of Bay Wheels’ bike rental patterns using Python techniques on Jupyter Notebook 
+
 •	Uncover actionable, stakeholder-ready insights supported by credible research and compelling visualizations.
 
 #### Project 5: Big Data Analytics Project
