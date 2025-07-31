@@ -2,9 +2,9 @@
 
 ### Education
 
-MS,, Marketing & Analytics  Hult International Business University, San Francisco, California, USA  (August 2025)
+##### MS,, Marketing & Analytics  Hult International Business University, San Francisco, California, USA  (August 2025)
 
-B.S,, Communication & Development Studies  Papua New Guinea University of Technology, Lae, PNG  (April 2019)
+##### B.S,, Communication & Development Studies  Papua New Guinea University of Technology, Lae, PNG  (April 2019)
 
 ### Projects - Marketing & Analytics Program
 
