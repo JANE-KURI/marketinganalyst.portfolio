@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=JClFcxynlHY
 #### Project 7: Utilizing Data Analysis & Visualization Tools on Real World Business Case
 Power BI
 
-Tableau; A1 Individual Assignment - Analysis Report - Data Visualization.docx  
+Tableau
 
 Venna AI
 
