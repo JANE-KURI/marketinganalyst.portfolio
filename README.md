@@ -14,7 +14,7 @@
 
 #### Project 2: Expedia Group Project   
 
-•	Developed and presented the "Event-cation" strategy to Expedia representatives. Through leveraging data insights to incentivize property listings on Vrbo during peak events, driving international market expansion for Expedia.
+•	Presented the "Event-cation" strategy to Expedia representatives. Through leveraging data insights to incentivize property listings on Vrbo during peak events, driving international market expansion for Expedia.
 
 •	Identified high-demand locations and showcased revenue potential, enhancing Vrbo’s competitive positioning in global event-driven travel.
 
