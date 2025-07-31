@@ -35,7 +35,7 @@ file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analy
 #### Project 5: Big Data Analytics Project
 https://www.youtube.com/watch?v=JClFcxynlHY 
 
-#### Project 6: AI & Future of Work
+#### Project 6: AI In Future of Work
 
 •	Participated in an in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
 
