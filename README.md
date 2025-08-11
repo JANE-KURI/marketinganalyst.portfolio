@@ -1,4 +1,5 @@
-![My Photo] (032221-kgo-sf-skyline-img (1).jpg)
+![My Photo] (https://github.com/JANE-KURI/marketinganalyst.portfolio/blob/main/assets/img/sf_skyline.jpg)
+
 # Communication & Marketing Analyst
 
 ### Education
