@@ -1,4 +1,4 @@
-![My Photo](https://raw.githubusercontent.com/JANE-KURI/marketinganalyst.portfolio/main/assets/img/032221-kgo-sf-skyline-img.jpg)
+(https://raw.githubusercontent.com/JANE-KURI/marketinganalyst.portfolio/main/assets/img/032221-kgo-sf-skyline-img.jpg)
 
 # Communication & Marketing Analyst
 
