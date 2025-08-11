@@ -1,3 +1,5 @@
+![My Photo] https://github.com/JANE-KURI/marketinganalyst.portfolio/commit/fab9d0bfe57bfb108d15694c9dc5becb927f20b0#commitcomment-163186687
+
 # Communication & Marketing Analyst
 
 ### Education
