@@ -5,9 +5,9 @@
 
 ### Education
 
-##### MS,, Marketing & Analytics  Hult International Business University, San Francisco, California, USA  (August 2025)
+##### Masters Degree,, Marketing & Analytics  Hult International Business University, San Francisco, California, USA  (August 2025)
 
-##### B.S,, Communication & Development Studies  Papua New Guinea University of Technology, Lae, PNG  (April 2019)
+##### Bachelors Degree,, Communication & Development Studies  Papua New Guinea University of Technology, Lae, PNG  (April 2019)
 
 ### Projects - Marketing & Analytics Program
 
@@ -23,7 +23,7 @@
 
 #### Project 3: Design Sales Marketing Strategy 
 
-•	Designed and launched a TikTok campaign to introduce BYMAU, a Caribbean plant-based beverage, to U.S. Gen Z consumers.
+•	Designed and launched TikTok campaign to introduce BYMAU, a Caribbean plant-based beverage, to U.S. Gen Z consumers.
 
 •	Drove engagement and first-time purchases through data-driven influencer content, UGC challenges, and promo-led conversions.
 
@@ -35,12 +35,14 @@ file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analy
 
 •	Uncover actionable, stakeholder-ready insights supported by credible research and compelling visualizations.
 
-#### Project 5: Big Data Analytics Project
-https://www.youtube.com/watch?v=JClFcxynlHY 
+#### Project 5: Big Data Analytics for Sustainable Development Project
+
+• https://www.youtube.com/watch?v=JClFcxynlHY 
+• Creat app prototype to monitor eco friendly sustainability projects
 
 #### Project 6: AI In Future of Work
 
-•	Participated in an in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
+•	Conduct in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
 
 #### Project 7: Utilizing Data Analysis & Visualization Tools on Real World Business Case
 Power BI
