@@ -1,4 +1,4 @@
-![My Photo](asset/032221-kgo-sf-skyline-img.jpg) 
+![My Photo](asset/032221-kgo-sf-skyline-img.jpg)
 
 
 # Communication & Marketing Analyst
