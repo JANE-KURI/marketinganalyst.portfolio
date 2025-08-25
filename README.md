@@ -1,4 +1,4 @@
-![My Photo](https://JANE-KURI.github.io/marketinganalyst.portfolio/assets/032221-kgo-sf-skyline-img.jpg) 
+![My Photo](asset/032221-kgo-sf-skyline-img.jpg) 
 
 
 # Communication & Marketing Analyst
