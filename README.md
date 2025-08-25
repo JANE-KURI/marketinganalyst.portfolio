@@ -38,6 +38,7 @@ file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analy
 #### Project 5: Big Data Analytics for Sustainable Development Project
 
 • https://www.youtube.com/watch?v=JClFcxynlHY 
+
 • Creat app prototype to monitor eco friendly sustainability projects
 
 #### Project 6: AI In Future of Work
