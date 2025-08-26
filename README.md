@@ -3,31 +3,37 @@
 
 # Communication & Marketing Analyst
 
+## Fueling meaningful story from massive Data through effective utilization of Big Data and AI technologies
+
 ### Education
 
 ##### Masters Degree,, Marketing & Analytics  Hult International Business University, San Francisco, California, USA  (August 2025)
 
 ##### Bachelors Degree,, Communication & Development Studies  Papua New Guinea University of Technology, Lae, PNG  (April 2019)
 
-### Projects - Marketing & Analytics Program
+### Projects - Marketing & Analytics Program 
 
 #### Project 1 - AI Powered Workflow and Big Data
 
-• Programmed and developed a custom Large Language Model (LLM) named VENNA AI using BigQuery, designed to analyze complex datasets, extract actionable insights, and generate context-aware responses for advanced data-driven applications.
+• Programmed and developed a custom Large Language Model (LLM) named VENNA AI using BigQuery, designed to analyze complex datasets, extract actionable insights, and generate context-aware responses for advanced data-driven applications for acurate storytelling in business applications.
 
-#### Project 2: Expedia Group Project   
+#### Project 2 - Advancing SEO for Immagrant Pathway Website Platform
+
+•	Developed and executed a data-driven SEO strategy to enhance visibility, trust, and user experience, leveraging high-intent keywords, authoritative backlinks, structured data, and local optimization to improve search rankings and customer engagement on the website.
+
+#### Project 3: Expedia Group Project   
 
 •	Presented the "Event-cation" strategy to Expedia representatives. Through leveraging data insights to incentivize property listings on Vrbo during peak events, driving international market expansion for Expedia.
 
 •	Identified high-demand locations and showcased revenue potential, enhancing Vrbo’s competitive positioning in global event-driven travel.
 
-#### Project 3: Design Sales Marketing Strategy 
+#### Project 4: Design Sales Marketing Strategy 
 
 •	Designed and launched TikTok campaign to introduce BYMAU, a Caribbean plant-based beverage, to U.S. Gen Z consumers.
 
 •	Drove engagement and first-time purchases through data-driven influencer content, UGC challenges, and promo-led conversions.
 
-#### Project 4: Python Analysis Project
+#### Project 5: Python Analysis Project
 
 file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analysis_Individual%20Assignment%20-%20JANE%20KURI%20(MIMA)-3%20(1).html 
   
@@ -35,17 +41,17 @@ file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analy
 
 •	Uncover actionable, stakeholder-ready insights supported by credible research and compelling visualizations.
 
-#### Project 5: Big Data Analytics for Sustainable Development Project
+#### Project 6: Big Data Analytics for Sustainable Development Project
 
 • https://www.youtube.com/watch?v=JClFcxynlHY 
 
 • Creat app prototype to monitor eco friendly sustainability projects
 
-#### Project 6: AI In Future of Work
+#### Project 7: AI In Future of Work
 
 •	Conduct in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
 
-#### Project 7: Utilizing Data Analysis & Visualization Tools on Real World Business Case
+#### Project 8: Utilizing Data Analysis & Visualization Tools on Real World Business Case
 Power BI
 
 Tableau
