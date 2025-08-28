@@ -51,14 +51,15 @@ file:///Users/janekuri/Downloads/A2%20Introduction%20to%20Python_Project%20Analy
 
 •	Conduct in-class workshop introducing Fireflies AI, demonstrating its capabilities in meeting transcription, note-taking, and productivity enhancement for team collaboration.
 
-#### Momentum App: A Gamified Health and Habit-Tracking Application for Young Adults
+#### Project 8: Momentum App: A Gamified Health and Habit-Tracking Application for Young Adults
 
 • Momentum App: A gamified health and habit-tracking application designed for young adults (25–35) to combat
 chronic diseases like obesity, pre-diabetes, and high blood pressure by integrating psychology-based features such as in-app betting, peer verification, and community challenges.
 
 • Impact & Strategy: Validated through user research and aligned with UN Sustainable Development Goal 3.4, the app emphasizes personalization, sustainability, and market fit, with a premium pricing model and a go-to-market strategy leveraging micro-influencers, viral health trends, and user-generated content.
 
-#### Project 8: Utilizing Data Analysis & Visualization Tools on Real World Business Case
+#### Project 9: Utilizing Data Analysis & Visualization Tools on Real World Business Case
+
 Power BI
 
 Tableau
